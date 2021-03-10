@@ -3,6 +3,7 @@
 name: Start
 
 on:
+   workflow_dispatch:
    push:
    gollum:
    schedule:
